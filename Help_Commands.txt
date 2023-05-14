@@ -1,0 +1,61 @@
+
+Commands (General Menu)
+-------------------------------------------------------------------------
+[stats]: Prints the name, level and current stats of your ship
+
+[Upgrade]: If your currently in a starbase system(S1, S2, S3, S4), opens the upgrade menu, 
+	allowing you to select a stat to upgrade
+
+[Repair]: If in a starbase or outpost system (S- or O-), charges you a credit amount equal 
+	to your missing hull-points and restores you to full hull 
+		  !Note! (Outpost repairs cost more)
+
+[Map]: Prints your current position and displays a map of the galaxy, with your position 
+	highlighted
+
+[Move]: Prints nearby systems, and asks you to select a destination system, then moves you 
+	to that system
+
+[Bank]: Prints your current credit balance
+
+Commands (Battle Menu)
+-------------------------------------------------------------------------
+[Attack]: Makes an attack against the enemy
+
+[Defend]: Reduces your chance of being hit, and reduces damage taken for that turn
+
+[Scan]: Prints the enemies name, level and current stats
+
+[Retreat]: Attempts to retreat from the battle
+
+
+How to Play
+-------------------------------------------------------------------------
+1) Travel between different star systems to discover various anomalies and potential 
+	rewards, but be careful! Space is full of dangers!
+
+2) Face hostile ships and prove who the better captain is!
+
+3) Use the funds from your adventures to improve your ship, enhancing your capabilities.
+
+4) Chart your own path through the stars!
+
+
+Stats
+ ------------------------------------------------------------------------
+[hull]: A measure of your ship's physical durability. If your hull is reduced to 0, your
+	ship is destroyed.
+
+[Shields]: Shields are used in combat to provide additional protection against damage. When
+	fighting enemy ships, any damage taken will reduce your shields, only damaging your 
+	hull once the shields are depleted. 
+
+[Weapons]: A measure of your ship's offensive combat systems. A higher weapons stat will 
+	improve your ships ability to hit targets, and increase the damage dealt.
+
+[Power]: A measure of your ship's power production. An increased power stat provides minor 
+	improvements to shield strength, weapons capabilities, and ship speed.
+
+[Speed]: A measure of your ship's engine power. Higher speed allows your ships to escape
+	enemies more easily. 
+
